@@ -5,7 +5,7 @@ Purpose:
 
 Compile:
 
-  $ gcc -lX11 wm_class.c -o wm_class
+  $ gcc wm_class.c -o wm_class -lX11
 
 Usage:
 
